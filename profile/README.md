@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá! 👋 (PTBR)
+## Nós somos o sistema NerdSystem!
 
+🙋‍♀️ Uma introdução curta - Essa organização é para juntar todos os projetos de nós todas, já que somos um sistema, temos que organizar tudo em lugar só para que seja mais fácil para outros verificar o que somos capazes! Somos 6 no momento, e cada uma estuda e tenta aprender uma linguagem diferente de programação, você pode dar uma olhada no github de cada uma para checar.
 <!--
 
 **Here are some ideas to get you started:**
