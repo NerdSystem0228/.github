@@ -1,7 +1,7 @@
 ## Olá! 👋 (PTBR)
-## Nós somos o sistema NerdSystem!
+## Sou Sofia!
 
-🙋‍♀️ Uma introdução curta - Essa organização é para juntar todos os projetos de nós todas, já que somos um sistema, temos que organizar tudo em lugar só para que seja mais fácil para outros verificar o que somos capazes! Somos 6 no momento, no momento estudamos sobre fullstack!
+🙋‍♀️ Uma introdução curta - Essa organização é para juntar todos os meus projetos com outras amigas minhas, que eu tive ideia pros projetos e algumas coisas são dela também! Mas sempre ajudei e analisei os projetos e também falei com elas.
 <!--
 
 **Here are some ideas to get you started:**
